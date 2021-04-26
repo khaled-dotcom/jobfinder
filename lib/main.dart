@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:job1/screens/home_screen/home_screen.dart';
-import 'package:job1/screens/jobDetai_screen/job_detail_screen.dart';
+
 
 
 
